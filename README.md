@@ -4,6 +4,7 @@
 This is a simple Flask application that retrieves weather information based on city names. It uses the OpenWeatherMap API to fetch weather data.
 
 ## Getting Started
+Here is how to get started:
 
 ### Prerequisites
 - Python 3.8+
@@ -15,24 +16,24 @@ This is a simple Flask application that retrieves weather information based on c
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
 
-Install the required packages:
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+## Usage
+Here is how to use:
 
-Usage
-
-Run the application:
-
+0. Run the application:
+   ```bash
 python app.py
 
 Open your web browser and go to http://127.0.0.1:5000/ to see the app in action.
 
-
-Contributing
+## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
+## Contact
 Boback Khoshnevis - bkhoshnevis@gmail.com
